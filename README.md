@@ -1,7 +1,6 @@
-*Tasks and knowledge associated with SharePoint Restricted Content Discovery (RCD)*
+*Tasks and knowledge associated with SharePoint*
 
-
-# SharePoint RCD Scripts
+# SharePoint Scripts
 
 This repository contains PowerShell scripts for automating SharePoint Online governance tasks, including applying Restricted Content Discovery (RCD) settings.
 
