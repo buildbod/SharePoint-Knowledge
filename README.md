@@ -1,8 +1,13 @@
-*Tasks and knowledge associated with SharePoint*
+# SharePoint Knowledge
 
-# SharePoint Scripts
+A personal repository of SharePoint scripts and insights, open to the community for learning and collaboration.
 
-This repository contains PowerShell scripts for automating SharePoint Online governance tasks, including applying Restricted Content Discovery (RCD) settings.
+## 🧩 What's Included (/coming soon)
+
+- Task-based automation scripts for SharePoint Online
+- Governance and compliance tools
+- Architectural notes and references
+- Links to official documentation and learning resources
 
 ## 📂 Scripts
 
@@ -10,6 +15,6 @@ This repository contains PowerShell scripts for automating SharePoint Online gov
 
 ## 📚 Related Resources
 
-- Microsoft Learn: Restricted Content Discovery  
+- Microsoft Learn: [Restricted Content Discovery](https://learn.microsoft.com/en-us/sharepoint/restricted-content-discovery)
   Official documentation explaining how RCD works and when to use it.
 
