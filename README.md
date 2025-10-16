@@ -7,7 +7,7 @@ This repository contains PowerShell scripts for automating SharePoint Online gov
 
 ## 📂 Scripts
 
-- [Apply-RCD Script README](httpsomates the application of RCD settings to a list of SharePoint sites using a CSV input and logs results.
+- [Apply-RCD](https://github.com/buildbod/SharePoint-RCD/blob/main/Apply-RCD/README.md) Application of RCD settings to a list of SharePoint sites using a CSV input and logging of results.
 
 ## 📚 Related Resources
 
