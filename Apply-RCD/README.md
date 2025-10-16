@@ -7,6 +7,7 @@ This PowerShell script automates the process of applying **Restricted Content Di
 - Applies RCD (`-RestrictContentOrgWideSearch $true`) to each site
 - Logs success and error messages to a log file
 - Includes error handling to continue processing even if some sites fail
+- The process can be reversed using [-RestrictContentOrgWideSearch $false](https://learn.microsoft.com/en-us/sharepoint/restricted-content-discovery#remove-restricted-content-discovery-from-a-site)
 
 ## 📁 CSV Format
 The input CSV file should contain a column named `SiteUrl`:
