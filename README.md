@@ -32,7 +32,7 @@ https://contoso.sharepoint.com/sites/site2
   ```
 
 ## 🚀 How to Run
-1. Edit the script to set the correct path to your CSV file containing site URLs and the location for the log.
+1. Edit the script to set the correct path to your CSV file containing site URLs ($csvPath) and the location for the log ($logPath).
 2. Open SharePoint Online Management Shell
 3. Run the script:
    ```powershell
